@@ -17,12 +17,13 @@ WinterGate IC is a Private, Membership-based Security and Intelligence Collectiv
 | Institution | A structured hierarchy (AIMS), defined digital assets (Haven API), and a maintained library of threat records (TEL). |
 | Legal Boundary | We do not conduct illegal surveillance or hacking. Our work is limited to open-source intelligence (OSINT) gathered from public Discord servers and user-submitted reports. |
 | Core Purpose | To protect our members and the broader community spaces we serve. |
+| Data Handling | All intelligence operations follow our [Data Handling Protocol](DATA_HANDLING_SOP.md), which governs collection, storage, and disclosure. |
 
 > We are the Wardens of WinterGate. We are Private Intelligence Professionals, not criminals.
 
 ---
 
-## Who We Are (Depth & Clarity)
+## Who We Are
 
 WinterGate IC is not a large organization or a corporate entity. We are a small, dedicated group of volunteers who research online abuse, threat actors, and coordinated attacks.
 
@@ -34,7 +35,7 @@ To understand how hostile operations work and to empower people with the knowled
 
 ---
 
-## What We Do (Operational Clarity)
+## What We Do
 
 When an individual or community reaches out for help, our response is measured, legal, and transparent. We may:
 
@@ -47,7 +48,7 @@ We keep things straightforward. We do not conduct deep private investigations, n
 
 ---
 
-## Spawn Division (Context & Mission)
+## Spawn Division
 
 The Spawn community is a unique space where many individuals gather as a way to cope with trauma. The Spawn Division of WIC is dedicated to this specific community.
 
@@ -56,14 +57,14 @@ We work to help create safer, low-drama environments within the Spawn ecosystem.
 
 ---
 
-## Recommended Safe Havens (The WIC Trust Mark)
+## Recommended Safe Havens
 
 We maintain a curated list of online spaces we have personally assessed and feel comfortable recommending to those seeking safe communities.
 
 **What is WIC-APPROVED.TRUSTED?**
 It is a personal stamp of assurance. It signifies that we have observed a space, found it to be well-moderated and free from systemic abuse, and believe it to be a positive environment. It is not an official certification, but a signal of our own confidence.
 
-### How to Get Your Space Listed (The Process)
+### How to Get Your Space Listed
 
 | Step | Action | Detail |
 |------|--------|--------|
@@ -77,7 +78,7 @@ There are no lengthy applications or formal contracts. The process is designed t
 
 ---
 
-## Our Tools & Capabilities
+## Our Tools
 
 We build tools for our own internal use. As they mature, we gradually release them to trusted partners and, eventually, the public.
 
@@ -91,6 +92,16 @@ We build tools for our own internal use. As they mature, we gradually release th
 | Public Utility Scripts | Open-source tools released to the general public for community self-defense. |
 
 We believe in building for our own needs first, then sharing what works.
+
+---
+
+## Operational Policies
+
+All WIC operations are governed by established protocols to ensure legal compliance, ethical conduct, and operational security.
+
+- **[Data Handling Protocol](DATA_HANDLING_SOP.md)** – Defines rules for collection, storage, restricted categories, the Vault system, disclosure requirements, and operator accountability.
+
+Additional internal policies govern membership, communication security, and incident response. These are available to active Operators.
 
 ---
 
