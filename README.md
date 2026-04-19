@@ -1,83 +1,100 @@
-# 🛡️ WinterGate Intelligence Collective (WIC)
+[![WIC Logo](https://raw.githubusercontent.com/WinterGate-IC/WIC/refs/heads/main/ART/WIC/logos/WIC%209%2C%202026%2C%2012_08_05%20AM.png)](https://wintergate.org)
 
-**volunteer research · community protection · safe spaces**
+# WinterGate Intelligence Collective (WIC)
+
+**Volunteer Research · Community Protection · Safe Spaces**
 
 *Established 04.09.2025* | *Current Focus: Spawnism*
 
 ---
 
-## 🏛️ Institutional Private Collective
+## Foundation & Legal Framework
 
-A Private, Membership-based Security and Intelligence Collective operating under the legal framework of community self-defense and data privacy.
+WinterGate IC is a Private, Membership-based Security and Intelligence Collective operating under the legal framework of community self-defense and data privacy.
 
 | Aspect | Description |
 |--------|-------------|
-| **🏢 Institution** | Structured hierarchy (AIMS), defined assets (Haven API), and a library of records (TEL) |
-| **⚖️ Legal** | Not conducting illegal surveillance (hacking); collecting open-source intelligence (OSINT) from public Discord servers and user reports to protect members and our community spaces |
+| Institution | A structured hierarchy (AIMS), defined digital assets (Haven API), and a maintained library of threat records (TEL). |
+| Legal Boundary | We do not conduct illegal surveillance or hacking. Our work is limited to open-source intelligence (OSINT) gathered from public Discord servers and user-submitted reports. |
+| Core Purpose | To protect our members and the broader community spaces we serve. |
 
-> **⛨ We are the Wardens of WinterGate. We are Private Intelligence Professionals, not criminals. ⛨**
-
----
-
-## ⛨ Who We Are
-
-WinterGate IC is a small group of volunteers who research online abuse, threat actors, and coordinated attacks. We maintain awareness of documented toxic behavior patterns to help communities recognize and understand potential risks.
-
-We focus on understanding how these hostile operations work and help people protect their spaces.
+> We are the Wardens of WinterGate. We are Private Intelligence Professionals, not criminals.
 
 ---
 
-## ⌘ What We Do
+## Who We Are (Depth & Clarity)
 
-When someone reaches out for help, we may:
+WinterGate IC is not a large organization or a corporate entity. We are a small, dedicated group of volunteers who research online abuse, threat actors, and coordinated attacks.
 
-- Review publicly available information about threat patterns
-- Share observed tactics and trends
-- Offer practical advice on securing your community spaces
+**Our Focus:**
+We maintain a living awareness of documented toxic behavior patterns. This allows us to help communities recognize, understand, and assess potential risks before they become active threats.
 
-**We keep things straightforward — no deep private investigations, no public exposés.**
-
----
-
-## ⌘ Spawn Division
-
-Many people in the Spawn community are there as a way to cope with trauma. We want to help create safer, low-drama spaces for them without turning it into a big spectacle.
+**Our Goal:**
+To understand how hostile operations work and to empower people with the knowledge to protect their digital spaces effectively.
 
 ---
 
-## ⌂ Recommended Safe Havens
+## What We Do (Operational Clarity)
 
-We maintain a simple list of spaces we've personally checked and feel comfortable recommending.
+When an individual or community reaches out for help, our response is measured, legal, and transparent. We may:
 
-> **WIC-APPROVED.TRUSTED** — The badge just means we've checked out your space and feel good about recommending it. Nothing official, just our personal stamp.
+1.  **Review Public Information:** Analyze openly available data about threat patterns relevant to the request.
+2.  **Share Intelligence:** Communicate observed tactics, techniques, and procedures (TTPs) used by threat actors.
+3.  **Offer Practical Advice:** Provide actionable guidance on securing community infrastructure, hardening Discord servers, and establishing safety protocols.
 
-### How to Get Listed
-
-| Step | Action |
-|------|--------|
-| ✎ | Reach out with basic info about your community |
-| ⌘ | Submit a request form |
-| ◈ | We quietly check how your space runs |
-| ⌐ | If it feels like a good fit, we'll talk and add you |
-
-No long applications or formal process — just reach out.
+**Our Operational Boundary:**
+We keep things straightforward. We do not conduct deep private investigations, nor do we publish public exposés. Our role is intelligence and advice, not law enforcement or vigilante action.
 
 ---
 
-## ⚒ Our Tools
+## Spawn Division (Context & Mission)
 
-- **TEL (Threat Entity Library)** — internal threat intelligence tracking
-- **Custom server hardening utilities** — tools for Discord security and threat detection
-- **Safe Haven management system** — directory and verification for trusted communities
-- **OSINT API** — public threat intelligence query system (in development)
-- **Partner toolkits** — security resources for trusted community partners
-- **Public utility scripts** — open-source tools for community defense
+The Spawn community is a unique space where many individuals gather as a way to cope with trauma. The Spawn Division of WIC is dedicated to this specific community.
 
-We build tools for our own use and gradually release them to partners and the public as they mature.
+**Our Commitment:**
+We work to help create safer, low-drama environments within the Spawn ecosystem. We do this quietly and without turning community needs into a public spectacle. Our focus is on sustainable safety, not performative action.
 
 ---
 
-## ⌁ Connect With Us
+## Recommended Safe Havens (The WIC Trust Mark)
+
+We maintain a curated list of online spaces we have personally assessed and feel comfortable recommending to those seeking safe communities.
+
+**What is WIC-APPROVED.TRUSTED?**
+It is a personal stamp of assurance. It signifies that we have observed a space, found it to be well-moderated and free from systemic abuse, and believe it to be a positive environment. It is not an official certification, but a signal of our own confidence.
+
+### How to Get Your Space Listed (The Process)
+
+| Step | Action | Detail |
+|------|--------|--------|
+| 01 | Reach Out | Send us a message with basic information about your community (name, size, purpose). |
+| 02 | Submit a Request | Complete our brief request form to formally initiate the review. |
+| 03 | Observation Period | We quietly observe your space over time to assess moderation quality, member behavior, and overall atmosphere. |
+| 04 | Discussion | If the space appears to be a good fit, we will contact you to discuss the listing and any feedback we may have. |
+| 05 | Listing | Upon mutual agreement, your space is added to the Recommended Safe Havens list. |
+
+There are no lengthy applications or formal contracts. The process is designed to be low-friction and transparent.
+
+---
+
+## Our Tools & Capabilities
+
+We build tools for our own internal use. As they mature, we gradually release them to trusted partners and, eventually, the public.
+
+| Tool | Purpose |
+|------|---------|
+| TEL (Threat Entity Library) | Internal tracking system for threat intelligence, actor profiles, and coordinated attack patterns. |
+| Custom Hardening Utilities | Specialized scripts and configurations for enhancing Discord server security and threat detection. |
+| Safe Haven Management System | A directory and verification workflow for managing the Recommended Safe Havens list. |
+| OSINT API (In Development) | A planned public query system for accessing non-sensitive threat intelligence data. |
+| Partner Toolkits | Security resources, checklists, and configurations shared with trusted community partners. |
+| Public Utility Scripts | Open-source tools released to the general public for community self-defense. |
+
+We believe in building for our own needs first, then sharing what works.
+
+---
+
+## Connect With Us
 
 - **X (Twitter):** [@WinterGateIC](https://x.com/WinterGateIC)
 - **GitHub:** [WinterGate-IC](https://github.com/WinterGate-IC)
@@ -85,7 +102,9 @@ We build tools for our own use and gradually release them to partners and the pu
 
 ---
 
-> *We're just trying to help people stay safe online. Nothing more complicated than that.*
+## Our Simple Promise
+
+We are not here for spectacle or recognition. We are just trying to help people stay safe online. Nothing more complicated than that.
 
 **Where the shadows end, and the people stand.**
 
