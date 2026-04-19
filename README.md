@@ -15,7 +15,7 @@ WinterGate IC is a Private, Membership-based Security and Intelligence Collectiv
 | Aspect | Description |
 |--------|-------------|
 | Institution | A structured hierarchy (AIMS), defined digital assets (Haven API), and a maintained library of threat records (TEL). |
-| Legal Boundary | We do not conduct illegal surveillance or hacking. Our work is limited to open-source intelligence (OSINT) gathered from public Discord servers and user-submitted reports. |
+| Legal Boundary | We do not conduct illegal surveillance or hacking. Our work is limited to open-source intelligence (OSINT) gathered from public sources, Discord servers and user-submitted reports. |
 | Core Purpose | To protect our members and the broader community spaces we serve. |
 | Data Handling | All intelligence operations follow our [Data Handling Protocol](DATA_HANDLING_SOP.md), which governs collection, storage, and disclosure. |
 
