@@ -1,4 +1,4 @@
-[![WIC Logo](https://raw.githubusercontent.com/WinterGate-IC/WIC/refs/heads/main/ART/WIC/logos/WIC%209%2C%202026%2C%2012_08_05%20AM.png)](https://wintergate.org)
+[![WIC Logo](https://github.com/WinterGate-IC/WIC/blob/2072e9a84a879168465f4e1d35b8abd587149cda/Copyrighted-Logos/official.PNG)](https://wintergate.org)
 
 # WinterGate Intelligence Collective (WIC)
 
